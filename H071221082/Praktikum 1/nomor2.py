@@ -8,4 +8,4 @@ sisa_detik = detik_awal % 3600
 menit = sisa_detik // 60
 detik = sisa_detik % 60
 
-print ("%03d:%02d:%02d" % (jam, menit, detik))
+print ("%02d:%02d:%02d" % (jam, menit, detik))
