@@ -7,6 +7,7 @@ for i in range(nilai):
     angka_selanjutnya = angka1 + angka2
     angka1 = angka2
     angka2 = angka_selanjutnya
+    
 #angka=5
 #angka1=0, terus angka2= 1
 #perulangan pertama: i:0
