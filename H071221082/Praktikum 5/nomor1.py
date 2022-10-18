@@ -10,7 +10,7 @@ for i in range (1,3):
 
 for m in range (1,3):
     for n in range (1,3):
-        b = int(input(f"Input nilai matriks pertama indeks {m},{n}: "))
+        b = int(input(f"Input nilai matriks kedua indeks {m},{n}: "))
         matriks2.append(b)
 
 p = matriks1[0] * matriks2[0] + matriks1[1] * matriks2[2]
